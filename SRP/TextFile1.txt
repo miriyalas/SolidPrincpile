@@ -1,0 +1,17 @@
+﻿
+User Class design for SRP 
+
+SRP
+ Single Response Principle 
+
+ problem statement :Design the solution for sending email for user(s)
+
+ Class Idnetitified.
+
+ UserEmail.cs
+ --- initial two methods
+ ---Send email 
+ -- Validate Email 
+ --Register User
+
+
